@@ -1,4 +1,4 @@
-src-git packages https://github.com/coolsnowwolf/packages^786d658
-src-git luci https://github.com/coolsnowwolf/luci^b200c7b
-src-git routing https://git.openwrt.org/feed/routing.git^b38a46a
-src-git helloworld https://github.com/fw876/helloworld^f34fa4d
+src-git packages https://github.com/coolsnowwolf/packages
+src-git luci https://github.com/coolsnowwolf/luci
+src-git routing https://git.openwrt.org/feed/routing.git
+src-git helloworld https://github.com/fw876/helloworld
