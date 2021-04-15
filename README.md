@@ -1,3 +1,6 @@
+小米4A千兆版已经修改了breed直刷版
+参考：https://github.com/YL2209/Actions-OpenWrt-Xiaomi-R4A
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
