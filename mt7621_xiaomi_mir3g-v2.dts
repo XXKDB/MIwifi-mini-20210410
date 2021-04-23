@@ -122,11 +122,11 @@
 
 		port@3 {
 			status = "okay";
-			label = "lan1";
+			label = "wan2";
 		};
 		wan: port@4 {
 			status = "okay";
-			label = "wan";
+			label = "wan1";
 			mtd-mac-address = <&factory 0xe006>;
 		};
 	};
